@@ -17,7 +17,10 @@ nav ul {
     justify-content: center;
     padding: 0;
     margin: 0;
+    flex-wrap: wrap;
+    /* Ensure items wrap on smaller screens */
 }
+
 
 nav ul li {
     margin: 0 15px;
